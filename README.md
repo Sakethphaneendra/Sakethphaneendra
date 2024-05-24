@@ -2,11 +2,8 @@
 
 # Hi there, I'm K. Phaneendra Saketh 👋
 
-![GitHub followers](https://img.shields.io/github/followers/sakethphaneendra?label=Followers&style=social)
-![GitHub stars](https://img.shields.io/github/stars/sakethphaneendra/sakethphaneendra?style=social)
-
 <p align="center">
-  <img src="https://github.com/sakethphaneendra/sakethphaneendra/blob/main/assets/Profile%20Photo.jpg" alt="Profile Image" width="200"/>
+  <img src="https://github.com/Sakethphaneendra/Sakethphaneendra/blob/Master/assets/Profile%20Photo.jpg" alt="Profile Image" width="200"/>
 </p>
 
 <p align="center" style="color:blue; font-size:20px;">
@@ -23,14 +20,18 @@
 
 ## 📫 How to reach me
 
-- [Email](mailto:sakethphaneendra@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/sakethphaneendra/)
-- [Instagram](https://www.instagram.com/saketh_phaneendra_/)
-- [Leetcode](https://leetcode.com/u/saketh_phaneendra_/)
+- [Email : sakethphaneendra@gmail.com ](mailto:sakethphaneendra@gmail.com)
+- [LinkedIn : sakethphaneendra ](https://www.linkedin.com/in/sakethphaneendra/)
+- [Instagram : saketh_phaneendra_ ](https://www.instagram.com/saketh_phaneendra_/)
+- [Leetcode : saketh_phaneendra_ ](https://leetcode.com/u/saketh_phaneendra_/)
 
 ## ⚡ Fun Facts
 
-- I love to create something crazy and innovative by myself.
+- 🚀 I'm a tech enthusiast who loves exploring new technologies and frameworks.
+- 🎤 In my free time, you can find me indulging in music and singing my favorite songs.
+- ☕ I'm a coffee aficionado and always on the lookout for the perfect brew.
+- 🌍 I enjoy hiking and outdoor adventures, always eager to explore new trails.
+- 💡 I thrive on creating innovative and out-of-the-box projects, always pushing the boundaries of what's possible.
 
 ## 📊 GitHub Stats
 
@@ -43,9 +44,11 @@
 
 ## 🔥 Streak Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sakethphaneendra&theme=radical)](https://github.com/sakethphaneendra)
+![GitHub followers](https://img.shields.io/github/followers/sakethphaneendra?label=Followers&style=social)
+![GitHub stars](https://img.shields.io/github/stars/sakethphaneendra/sakethphaneendra?style=social)
 
-## 📝 Latest Blog Post
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sakethphaneendra&theme=radical)](https://github.com/sakethphaneendra)
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
