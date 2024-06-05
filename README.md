@@ -1,4 +1,3 @@
-1
 
 # Hi there, I'm K. Phaneendra Saketh 👋
 
