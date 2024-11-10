@@ -6,7 +6,7 @@
 </p>
 
 <p align=right" style="color:blue; font-size:20px;">
- Software Engineer | Java Developer | Frontend | Ex-Intern at Sales Force | ALPHA MLSA 🌟 | Interested in SDE internship | Open Source Enthusiast | Pragati Enginnering College
+ Software Engineer | Java Developer | Frontend | Ex-Intern at Sales Force | BETA MLSA 🌟 | Interested in SDE internship | Open Source Enthusiast | Pragati Enginnering College 
 </p>
 
 ## 🌟 Technologies & Skills
