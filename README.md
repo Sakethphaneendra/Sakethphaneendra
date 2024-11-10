@@ -29,8 +29,8 @@
 - 🚀 I'm a tech enthusiast who loves exploring new technologies and frameworks.
 - 🎤 In my free time, you can find me indulging in music and singing my favorite songs.
 - ☕ I'm a coffee aficionado and always on the lookout for the perfect brew.
-- 🌍 I enjoy hiking and outdoor adventures, always eager to explore new trails.
-- 💡 I thrive on creating innovative and out-of-the-box projects, always pushing the boundaries of what's possible.
+- 🌍🌍 I enjoy hiking and outdoor adventures, always eager to explore new trails.
+- 💡💡 I thrive on creating innovative and out-of-the-box projects, always pushing the boundaries of what's possible.
 
 ## 📊 GitHub Stats
 
