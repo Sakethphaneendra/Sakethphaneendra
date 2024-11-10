@@ -5,7 +5,7 @@
   <img src="https://github.com/Sakethphaneendra/Sakethphaneendra/blob/Master/assets/WhatsApp Image 2024-10-31 at 21.18.42_4485a858 copy.jpg" alt="Profile Image" width="200"/>
 </p>
 
-<p align="center" style="color:blue; font-size:20px;">
+<p align=right" style="color:blue; font-size:20px;">
  Software Engineer | Java Developer | Frontend | Ex-Intern at Sales Force | ALPHA MLSA 🌟 | Interested in SDE internship | Open Source Enthusiast | Pragati Enginnering College
 </p>
 
