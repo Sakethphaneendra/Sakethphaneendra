@@ -29,10 +29,6 @@
 - 🌍🌍 I enjoy hiking and outdoor adventures, always eager to explore new trails.
 - 💡💡 I thrive on creating innovative and out-of-the-box projects, always pushing the boundaries of what's possible.
 
-## 📊 GitHub Stats
-
-![Saketh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakethphaneendra&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakethphaneendra&layout=compact&theme=radical)](https://github.com/sakethphaneendra/github-readme-stats)
 
 ## 🏆 GitHub Trophies
 
